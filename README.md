@@ -1,1 +1,1 @@
-# CoreNet---Torch
+# CoreNet-Torch
